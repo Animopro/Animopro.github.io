@@ -18,6 +18,7 @@ https://www.readdemonslayerarc.com/demon-slayer-chapter-1/
 
 
 PLAY PAPER.IO
-
+https://paper-io.com//
 
 PLAY CHESS
+https://www.chess.com/
