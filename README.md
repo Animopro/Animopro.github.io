@@ -1,10 +1,11 @@
 HI WELCOME TO Animopro
 
 
-   Reading
+WATCHING
 1) Watch any Anime
 https://zoro.to/
 
+ Reading
 2)Read Mashle: Magic and Muscles Manga series
 https://mashle-manga.online/
 
