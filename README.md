@@ -23,3 +23,12 @@ https://paper-io.com//
 
 PLAY CHESS
 https://www.chess.com/
+<html>
+<title>Display link</title
+<body>
+ b<H1>Here you can wathch any anime</H1>
+<p>
+img src="C:\Users\91998\Downloadsmanga'>
+</p>
+</Body>
+</html>
